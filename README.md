@@ -1,4 +1,6 @@
 # Creditworthiness Prediction using Machine Learning
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&repo=HusnainQasid/credit-risk-predictor)
+
 
 ## Description
 This project implements a Machine Learning model to predict the creditworthiness of an individual based on financial and demographic input features.  
